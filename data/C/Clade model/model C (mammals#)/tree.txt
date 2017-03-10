@@ -1,0 +1,3 @@
+((Fish2,Fish8),Amphib1,(((Lizard1,Snake2),((Turtle1,(Turtle2,Turtle3)),(Crocod1,Bird1))),((Monotrem1,Monotrem2),((Marsup1,Marsup3),((Proboscid,(Tubul1,((Afro1,Afro2),Macro))),((((Eulipotyp1,Eulipotyp2),Eulipotyp3),((Carnivora1,Carnivora2),((Chirop1,Chirop4),(Perissod2,(Artiod3,Artiod5))))),((Scandentia,((Rodentia1,Rodentia2),(Lagomorp1,Lagomorp2))),(Dermoptera,(Primates1,Primates2)))))))$1)); 
+
+
